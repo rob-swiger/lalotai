@@ -1,4 +1,4 @@
-# Lalotai
+# Lalotai Design System
 
 ### What is Lalotai?
 Lalotai is the Design System used by PlusOne Priorities, LLC, based in Southwest Virginia. Version 1.0 is based upon [Bootstrap 4 (beta 3)] (http://getbootstrap.com) and [jQuery] (http://jquery.com). Future versions will branch out into Vue.js or React.js.
